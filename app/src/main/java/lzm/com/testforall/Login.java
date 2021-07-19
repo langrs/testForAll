@@ -11,7 +11,8 @@ import android.widget.Toast;
 public class Login extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        Button button,button2;
+        Button button,button2,button3,button4;
+        TextView tv1,tv2;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         button = (Button) findViewById(R.id.button);
