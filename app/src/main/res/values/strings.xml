@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TestForAll</string>
+    <string name="login_button_val">OK</string>
+    <string name="login_button2_val">Toast</string>
 </resources>
